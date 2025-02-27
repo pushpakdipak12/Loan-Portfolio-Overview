@@ -3,7 +3,7 @@
 ## **🔍 Key Insights and Strategic Recommendations**
 
 
-1️⃣ Loan Portfolio Overview
+### **1️⃣ Loan Portfolio Overview**
 
 Our loan portfolio comprises 114,000 total loans issued, demonstrating the extensive reach of our lending operations.
 
@@ -17,7 +17,7 @@ Defaulted Loans: 5,000 (where the borrower has defaulted)
 
 📌 Default Rate: 10.53% – Requires deeper analysis and risk mitigation strategies.
 
-2️⃣ Loan Amount Distribution by Status
+### **2️⃣ Loan Amount Distribution by Status
 
 The total loan amount stands at $944 million, allocated as follows:
 
@@ -31,7 +31,7 @@ Defaulted Loans: $33 million (loans in default)
 
 ✅ Actionable Focus: Reducing the defaulted loan amount will significantly improve financial stability.
 
-3️⃣ Interest Rates: Balancing Profitability and Affordability
+### **3️⃣ Interest Rates: Balancing Profitability and Affordability
 
 Average Interest Rate: 19.28%
 
@@ -43,7 +43,7 @@ Regularly assess borrower behavior and default trends.
 
 Maintain a balance between profitability and borrower affordability.
 
-4️⃣ Tackling the Default Rate
+### **4️⃣ Tackling the Default Rate
 
 📉 Default Rate: 10.53% is a key risk indicator requiring immediate attention.
 
@@ -63,7 +63,7 @@ Refine lending criteria for high-risk customers.
 
 Implement flexible repayment plans to mitigate defaults.
 
-5️⃣ Loan Distribution by Credit Grade
+### **5️⃣ Loan Distribution by Credit Grade
 
 Understanding loan distribution by credit grade helps manage risk exposure:
 
@@ -97,7 +97,7 @@ Grade E & HR
 
 ⚠️ Risk Alert: A significant share of loans is concentrated in Grade C & D, indicating higher exposure to defaults.
 
-✅ Optimization Strategy:
+### **✅ Optimization Strategy:
 
 Increase the share of Grade A & AA loans to ensure more stable repayment performance.
 
@@ -141,7 +141,7 @@ Expanding into underserved markets offers high growth potential with lower compe
 
 Targeted regional strategies can diversify risk and increase market share.
 
-📌 Strategic Recommendations for Stakeholders
+## **📌 Strategic Recommendations for Stakeholders**
 
 ✅ 1. Address the Default Rate
 
