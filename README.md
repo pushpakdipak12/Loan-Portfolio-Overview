@@ -17,7 +17,7 @@ Defaulted Loans: 5,000 (where the borrower has defaulted)
 
 📌 Default Rate: 10.53% – Requires deeper analysis and risk mitigation strategies.
 
-### **2️⃣ Loan Amount Distribution by Status
+### **2️⃣ Loan Amount Distribution by Status**
 
 The total loan amount stands at $944 million, allocated as follows:
 
@@ -31,7 +31,7 @@ Defaulted Loans: $33 million (loans in default)
 
 ✅ Actionable Focus: Reducing the defaulted loan amount will significantly improve financial stability.
 
-### **3️⃣ Interest Rates: Balancing Profitability and Affordability
+### **3️⃣ Interest Rates: Balancing Profitability and Affordability**
 
 Average Interest Rate: 19.28%
 
@@ -43,7 +43,7 @@ Regularly assess borrower behavior and default trends.
 
 Maintain a balance between profitability and borrower affordability.
 
-### **4️⃣ Tackling the Default Rate
+### **4️⃣ Tackling the Default Rate**
 
 📉 Default Rate: 10.53% is a key risk indicator requiring immediate attention.
 
@@ -63,7 +63,7 @@ Refine lending criteria for high-risk customers.
 
 Implement flexible repayment plans to mitigate defaults.
 
-### **5️⃣ Loan Distribution by Credit Grade
+### **5️⃣ Loan Distribution by Credit Grade**
 
 Understanding loan distribution by credit grade helps manage risk exposure:
 
@@ -97,13 +97,13 @@ Grade E & HR
 
 ⚠️ Risk Alert: A significant share of loans is concentrated in Grade C & D, indicating higher exposure to defaults.
 
-### **✅ Optimization Strategy:
+### **✅ Optimization Strategy**
 
 Increase the share of Grade A & AA loans to ensure more stable repayment performance.
 
 Balance high-risk, high-return lending with lower-risk investments.
 
-6️⃣ Average Loan Amount: Borrower Behavior Insights
+### **6️⃣ Average Loan Amount: Borrower Behavior Insights**
 
 💰 Average Loan Amount: $8,290
 
@@ -115,7 +115,7 @@ Aids in loan performance assessment.
 
 Assists in designing loan products and marketing strategies.
 
-7️⃣ Loan Volume by Year: Growth and Market Shifts
+### **7️⃣ Loan Volume by Year: Growth and Market Shifts**
 
 📈 Loan volume trends (2005–2014) show significant growth:
 
@@ -127,7 +127,7 @@ Fastest Growth Period: 2009-2014, with loans surging from 2,047 to 12,172.
 
 📌 Key Takeaway: The ability to adapt to market shifts has been crucial to sustained growth.
 
-8️⃣ Geographic Breakdown: Regional Market Insights
+### **8️⃣ Geographic Breakdown: Regional Market Insights**
 
 🏙️ Top Loan Issuance States:
 ✔️ California✔️ Texas✔️ New York
